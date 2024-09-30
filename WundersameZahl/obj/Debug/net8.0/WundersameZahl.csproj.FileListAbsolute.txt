@@ -1,0 +1,14 @@
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\bin\Debug\net8.0\WundersameZahl.exe
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\bin\Debug\net8.0\WundersameZahl.deps.json
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\bin\Debug\net8.0\WundersameZahl.runtimeconfig.json
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\bin\Debug\net8.0\WundersameZahl.dll
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\bin\Debug\net8.0\WundersameZahl.pdb
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.AssemblyInfoInputs.cache
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.AssemblyInfo.cs
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.csproj.CoreCompileInputs.cache
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.dll
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\refint\WundersameZahl.dll
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.pdb
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\WundersameZahl.genruntimeconfig.cache
+C:\Users\jouon\RiderProjects\WundersameZahl\WundersameZahl\obj\Debug\net8.0\ref\WundersameZahl.dll
